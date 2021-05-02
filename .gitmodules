@@ -1,0 +1,6 @@
+[submodule "smd/core/ConfigHandler"]
+	path = smd/core/ConfigHandler
+	url = https://github.com/Chris1320/ConfigHandler.git
+[submodule "smd/core/SimpleLogger"]
+	path = smd/core/SimpleLogger
+	url = https://github.com/Chris1320/SimpleLogger.git
